@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">옥빛GO</string>
+    <!-- Apple 로그인 관련 설정 -->
+    <string name="apple_client_id">com.okbit.service</string>
+    <string name="apple_redirect_uri">https://okbit-go-app.firebaseapp.com/__/auth/handler</string>
+</resources> 
